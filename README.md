@@ -33,4 +33,4 @@ BuildingArea: Building Size
 CouncilArea: Governing council for the area
 
 
-[View embedded HTML code](file.html)
+[View Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRVD7KZJkeS15XfLR2uSqWy8fKdYdbpgccv0eBO6fQlodT2ooX27csSm2gSDw61qmnD6RHiGpwvt1IW/pub?start=false&loop=false&delayms=3000)
