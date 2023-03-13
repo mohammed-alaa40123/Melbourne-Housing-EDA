@@ -34,5 +34,4 @@ CouncilArea: Governing council for the area
 
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVD7KZJkeS15XfLR2uSqWy8fKdYdbpgccv0eBO6fQlodT2ooX27csSm2gSDw61qmnD6RHiGpwvt1IW/embed?start=false&loop=false&delayms=2000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVD7KZJkeS15XfLR2uSqWy8fKdYdbpgccv0eBO6fQlodT2ooX27csSm2gSDw61qmnD6RHiGpwvt1IW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
